@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ensardedeoglu
-- 👀 I’m interested in Javascript enty level positions 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me ensardedeoglu@gmail.com
 
 <!---
