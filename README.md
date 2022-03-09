@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ensardedeoglu
 
 -  Front End : JavaScript ES6 -- React -- React Hooks -- Redux -- jQuery -- HTML5 -- CSS3 --Bootstarp 
-- Back End: Node.js -- MongoDB -- PostgreSQL -- Express -- SQL
+- Back End: JAVA -- Node.js -- MongoDB -- PostgreSQL -- Express -- SQL
 - Additional Tools: Git -- GitHub -- Mocha -- Chai
 
 - 📫 How to reach me ensardedeoglu@gmail.com
